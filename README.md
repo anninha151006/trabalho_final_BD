@@ -11,3 +11,5 @@ O sistema será desenvolvido para auxiliar no registro e acompanhamento de infor
 Integrantes:
 1.Anna Luisa Ferreira Guimarães
 2.Lethicia Hikary Borges Hoshi
+3.Giovanna Hermida de Araújo Vieria Siqueira
+4.Erik Matheus Rodrigues Magalhães
